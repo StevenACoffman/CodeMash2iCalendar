@@ -1,0 +1,22 @@
+{
+  "name": "codemash2icalendar",
+  "version": "1.0.0",
+  "description": "Utility to convert the CodeMash Session Schedule json into iCalendar (ICS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenACoffman/CodeMash2iCalendar.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StevenACoffman/CodeMash2iCalendar/issues"
+  },
+  "homepage": "https://github.com/StevenACoffman/CodeMash2iCalendar#readme",
+  "dependencies": {
+    "ics": "^2.0.1"
+  }
+}
