@@ -25,15 +25,7 @@ const readFileAsync = promisify(fs.readFile)
 //   }
 // ]
 //
-// events.map((event) => {
-//   ics.createEvent(event, (error, value) => {
-//     if (error) throw error
-//
-//     fs.writeFile(`events/${event.uid}.ics`, value, (error) => {
-//       if (error) throw error
-//     })
-//   })
-// })
+
 
 function extractTime(timeString) {
   let date = new Date(timeString)
@@ -48,10 +40,12 @@ function extractTime(timeString) {
 
 
 function mapObjToEvent(obj) {
+    if(obj.Rooms)
   return {
     title: obj.Title,
     start: extractTime(obj.SessionStartTime),
     end:   extractTime(obj.SessionEndTime),
+    location: obj.Rooms.join(' and '),
     uid:   uuidv4()
   }
 }
@@ -71,6 +65,7 @@ async function readInput() {
 }
 
 const writeEvent = (error, value) => {
+  console.log('Writing event')
   if (error) throw error
 
   fs.writeFile(`events/${value.uid}.ics`, value, (error) => {
@@ -82,13 +77,23 @@ async function doIt() {
   let allObjects = await readInput()
   let events = allObjects
       .map(mapObjToEvent)
+      .map((event) => {
+        console.log(`Writing ${event.title}`)
+        ics.createEvent(event, (error, value) => {
+          if (error) throw error
 
-  console.log(events[0])
+          fs.writeFile(`events/${event.uid}.ics`, value, (error) => {
+            if (error) throw error
+          })
+        })
+        return event
+      })
+
 }
 
 doIt()
 // Next steps:
 // [x] JSON.parse text
 // [ ] Convert object to event format
-// [ ] Write files to events directory using commented code
+// [x] Write files to events directory using commented code
 // [ ] Get fancy with promisify, Async Await, write tests, or whatever
