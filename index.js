@@ -11,23 +11,6 @@ const filenamify = require('filenamify');
 
 const readFileAsync = promisify(fs.readFile)
 
-// const events = [
-//   {
-//     title:    'First event',
-//     start:    [2018, 5, 30, 6, 30],
-//     duration: {hours: 1},
-//     uid:      uuidv4() // generate a unique ID
-//   },
-//   {
-//     title:    'Second event',
-//     start:    [2018, 6, 30, 6, 30],
-//     duration: {minutes: 30},
-//     uid:      uuidv4()
-//   }
-// ]
-//
-
-
 function extractTime(timeString) {
   let date = new Date(timeString)
   return [
@@ -39,11 +22,17 @@ function extractTime(timeString) {
   ]
 }
 
+function cleanDescription(description) {
+  return description.replace(/\r\n|\r|\n/g, "\\n").replace(/;/g, "\\;").replace(/:/g, "\\:")
+}
 
 function mapObjToEvent(obj) {
-    if(obj.Rooms)
+  let url = `http://www.codemash.org/sessions/?id=${obj.Id}`
+  let description = `${cleanDescription(obj.Abstract.trim())}\\n${cleanDescription(url)}`
   return {
     title: obj.Title.trim(),
+    description,
+    url,
     start: extractTime(obj.SessionStartTime),
     end:   extractTime(obj.SessionEndTime),
     location: obj.Rooms.join(' and '),
@@ -68,7 +57,7 @@ async function readInput() {
 const writeEvent = (event) => {
   let fileName = filenamify(event.title)
   console.log(`Writing ${fileName}`)
-  ics.createEvent(event, (error, value) => {
+  ics.createEvent([event], "PRODID", (error, value) => {
     if (error) throw error
 
     fs.writeFile(`events/${fileName}.ics`, value, (error) => {
@@ -95,12 +84,13 @@ async function doIt() {
   let allObjects = await readInput()
   let events = allObjects
       .map(mapObjToEvent)
+      .map(writeEvent)
   writeEvents(events)
 }
 
 doIt()
 // Next steps:
 // [x] JSON.parse text
-// [ ] Convert object to event format
+// [x] Convert object to event format
 // [x] Write files to events directory using commented code
 // [ ] Get fancy with promisify, Async Await, write tests, or whatever
