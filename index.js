@@ -78,11 +78,24 @@ const writeEvent = (event) => {
   return event
 }
 
+const writeEvents = (events) => {
+  let fileName = 'CODEMASH2018'
+  console.log(`Writing ${fileName}`)
+  ics.createEvent(events, "PRODID", (error, value) => {
+    if (error) throw error
+
+    fs.writeFile(`events/${fileName}.ics`, value, (error) => {
+      if (error) throw error
+    })
+  })
+  return events
+}
+
 async function doIt() {
   let allObjects = await readInput()
   let events = allObjects
       .map(mapObjToEvent)
-      .map(writeEvent)
+  writeEvents(events)
 }
 
 doIt()
