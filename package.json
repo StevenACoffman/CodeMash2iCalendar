@@ -18,6 +18,6 @@
   "homepage": "https://github.com/StevenACoffman/CodeMash2iCalendar#readme",
   "dependencies": {
     "filenamify": "^2.0.0",
-    "ics": "^2.0.1"
+    "ics": "git://github.com/svnindia/ics.git"
   }
 }

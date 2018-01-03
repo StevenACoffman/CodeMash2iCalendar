@@ -31,7 +31,7 @@ function mapObjToEvent(obj) {
   let description = `${cleanDescription(obj.Abstract.trim())}\\n${cleanDescription(url)}`
   return {
     title: obj.Title.trim(),
-    description: description,
+    description,
     url,
     start: extractTime(obj.SessionStartTime),
     end:   extractTime(obj.SessionEndTime),
@@ -57,7 +57,7 @@ async function readInput() {
 const writeEvent = (event) => {
   let fileName = filenamify(event.title)
   console.log(`Writing ${fileName}`)
-  ics.createEvent(event, (error, value) => {
+  ics.createEvent([event], "PRODID", (error, value) => {
     if (error) throw error
 
     fs.writeFile(`events/${fileName}.ics`, value, (error) => {
@@ -67,11 +67,25 @@ const writeEvent = (event) => {
   return event
 }
 
+const writeEvents = (events) => {
+  let fileName = 'CODEMASH2018'
+  console.log(`Writing ${fileName}`)
+  ics.createEvent(events, "PRODID", (error, value) => {
+    if (error) throw error
+
+    fs.writeFile(`events/${fileName}.ics`, value, (error) => {
+      if (error) throw error
+    })
+  })
+  return events
+}
+
 async function doIt() {
   let allObjects = await readInput()
   let events = allObjects
       .map(mapObjToEvent)
       .map(writeEvent)
+  writeEvents(events)
 }
 
 doIt()
