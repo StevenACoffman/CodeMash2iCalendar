@@ -7,6 +7,7 @@ const {promisify} = require('util')
 const ics = require('ics')
 const fs = require('fs')
 const uuidv4 = require('uuid/v4')
+const filenamify = require('filenamify');
 
 const readFileAsync = promisify(fs.readFile)
 
@@ -42,7 +43,7 @@ function extractTime(timeString) {
 function mapObjToEvent(obj) {
     if(obj.Rooms)
   return {
-    title: obj.Title,
+    title: obj.Title.trim(),
     start: extractTime(obj.SessionStartTime),
     end:   extractTime(obj.SessionEndTime),
     location: obj.Rooms.join(' and '),
@@ -64,31 +65,21 @@ async function readInput() {
   }
 }
 
-const writeEvent = (error, value) => {
-  console.log('Writing event')
-  if (error) throw error
+const writeEvent = (event) => {
+  let fileName = filenamify(event.title)
+  console.log(`Writing event ${fileName}`)
 
-  fs.writeFile(`events/${value.uid}.ics`, value, (error) => {
+  fs.writeFile(`events/${fileName}.ics`, event, (error) => {
     if (error) throw error
   })
+  return event
 }
 
 async function doIt() {
   let allObjects = await readInput()
   let events = allObjects
       .map(mapObjToEvent)
-      .map((event) => {
-        console.log(`Writing ${event.title}`)
-        ics.createEvent(event, (error, value) => {
-          if (error) throw error
-
-          fs.writeFile(`events/${event.uid}.ics`, value, (error) => {
-            if (error) throw error
-          })
-        })
-        return event
-      })
-
+      .map(writeEvent)
 }
 
 doIt()
