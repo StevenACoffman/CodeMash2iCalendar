@@ -88,7 +88,7 @@ async function doIt() {
 
 doIt()
 // Next steps:
-// JSON.parse text
-// Convert object to event format
-// Write files to events directory using commented code
-// Get fancy with promisify, Async Await, write tests, or whatever 
+// [x] JSON.parse text
+// [ ] Convert object to event format
+// [ ] Write files to events directory using commented code
+// [ ] Get fancy with promisify, Async Await, write tests, or whatever
