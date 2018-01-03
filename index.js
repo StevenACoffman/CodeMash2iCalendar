@@ -67,10 +67,13 @@ async function readInput() {
 
 const writeEvent = (event) => {
   let fileName = filenamify(event.title)
-  console.log(`Writing event ${fileName}`)
-
-  fs.writeFile(`events/${fileName}.ics`, event, (error) => {
+  console.log(`Writing ${fileName}`)
+  ics.createEvent(event, (error, value) => {
     if (error) throw error
+
+    fs.writeFile(`events/${fileName}.ics`, value, (error) => {
+      if (error) throw error
+    })
   })
   return event
 }
