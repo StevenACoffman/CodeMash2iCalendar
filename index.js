@@ -41,8 +41,8 @@ function extractTime(timeString) {
     date.getFullYear(),
     date.getMonth() + 1,
     date.getDate(),
-    date.getHours() + 1,
-    date.getMinutes() + 1
+    date.getHours(),
+    date.getMinutes()
   ]
 }
 
