@@ -2,7 +2,7 @@
   {
     "Id": 7902,
     "SessionTime": "0001-01-01T00:00:00",
-    "SessionStartTime": "2018-01-09T08:00:00",
+    "SessionStartTime": "2018-01-09T08:00:01",
     "SessionEndTime": "2018-01-09T23:59:00",
     "Room": null,
     "Rooms": [
@@ -332,6 +332,32 @@
     ]
   },
   {
+    "Id": 7917,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-09T08:00:01",
+    "SessionEndTime": "2018-01-09T23:59:00",
+    "Room": null,
+    "Rooms": [
+      "Waterpark - Cabanaz"
+    ],
+    "Title": "[KidzMash] Waterpark Cabana (T)",
+    "Abstract": "Need a place to hang out or keep your stuff while in the waterpark? We have two dedicated Cabanas for you! Cabanas are available all week (Saturday thru Saturday) for CodeMash Attendees, and their families– and sponsored by by Amazon.\r\n\r\nAs a special twist, Alexa will be available for doing cool things while in the Cabana. You can ask her if any sharks have been spotted in the water, for example. Or maybe try to turn on and off the lights, TV, etc.\r\n\r\nCabanas are #3 and #4 in the waterpark, and labeled “D” and “E” on the map in the mobile app.\r\n\r\nCowabunga, and happy swimming!\r\n\r\n",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Soft Skills / Business",
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7890,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-09T09:00:01",
@@ -348,6 +374,31 @@
       "Other"
     ],
     "Category": "Architecture",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7956,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-09T09:00:01",
+    "SessionEndTime": "2018-01-09T10:00:00",
+    "Room": null,
+    "Rooms": [
+      "GWL Waterpark"
+    ],
+    "Title": "[KidzMash] Junior Lifeguarding Class (T 9:00 AM)",
+    "Abstract": "Discuss basic water safety, signs of a swimmer in distress. Introduce lifeguarding equipment and learn how to use the equipment. Wear a suit and come ready to learn and get wet! Located at Great Wolf Lodge.\r\n\r\n[More information](https://www.codemash.org/junior-lifeguarding-class-ticketz-required/)\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
     "Speakers": [
       {
         "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
@@ -408,6 +459,31 @@
     ]
   },
   {
+    "Id": 7913,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-09T09:00:01",
+    "SessionEndTime": "2018-01-09T16:00:00",
+    "Room": null,
+    "Rooms": [
+      "Ironwood - Open Spacez"
+    ],
+    "Title": "[KidzMash] Open Spacez (T)",
+    "Abstract": "Calling all attendees, KidzMash and CodeMash! Do you have something you want to share with the KidzMash community? This is your space to shine. Not only do we want kidz to present to kidz, we want parents and guardians to present to kidz.\r\n\r\nLast year we saw everything from ginormous bubbles to Terrarria to Minecraft to nail art to parachute tot time to monster creation to open gaming. We want to see all that and more! Science projects, art classes, cello recitals, robots, dance offs, sharing inventions, and whatever else your wild, innovative minds can come up with.\r\n\r\nWhen you arrive at the Kalahari, go to HangOutz and visit the ginormous wall grd to sign up for half hour blocks. You can sign up for up to an hour total at a time.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Architecture",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7894,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-09T10:00:01",
@@ -424,6 +500,31 @@
       "Other"
     ],
     "Category": "Architecture",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7952,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-09T10:00:01",
+    "SessionEndTime": "2018-01-09T12:00:00",
+    "Room": null,
+    "Rooms": [
+      "Main Conference Registration Booth"
+    ],
+    "Title": "[KidzMash] NASA Tour (T 10:00 AM)",
+    "Abstract": "CodeMash is partnering with NASA to offer guided tours at the NASA Plum Brook Station, which happens to be across the street from the Kalahari hotel. It is here that NASA simulates the rigorous conditions of launch and high-altitude flight in order to test rockets and satellites before they are actually launched.  CodeMash has arranged for several small excursions to tour this NASA facility as part of the Kidzmash/CodeMash Families program!\r\n\r\n[More information](https://www.codemash.org/nasa-tours/)\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Hardware/IoT",
     "Speakers": [
       {
         "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
@@ -835,6 +936,31 @@
     ]
   },
   {
+    "Id": 7925,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-09T13:30:01",
+    "SessionEndTime": "2018-01-09T14:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Laser Tag (T 1:30 PM)",
+    "Abstract": "Gaming Nomads presents Kidzmash Laser Tag –> Ages 10-16. Tactical Laser Tag just for the bigger kids of Kidzmash. We will play several different scenarios lasting 5-10 minutes each.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7910,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-09T14:00:01",
@@ -911,6 +1037,31 @@
     ]
   },
   {
+    "Id": 7926,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-09T15:00:01",
+    "SessionEndTime": "2018-01-09T16:00:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Laser Tag (T 3:00 PM)",
+    "Abstract": "Gaming Nomads presents Kidzmash Laser Tag –> Ages 10-16. Tactical Laser Tag just for the bigger kids of Kidzmash. We will play several different scenarios lasting 5-10 minutes each.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7874,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-09T16:00:01",
@@ -952,6 +1103,31 @@
       "Other"
     ],
     "Category": "Architecture",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7938,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-09T19:00:01",
+    "SessionEndTime": "2018-01-09T20:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Incident at Asimov Station (T 7:00 PM)",
+    "Abstract": "Gaming Nomads presents Incident at Asimov Station –> Ages 16+. This is a combined Artemis and Tactical Laser Tag event.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
     "Speakers": [
       {
         "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
@@ -1014,7 +1190,7 @@
   {
     "Id": 7905,
     "SessionTime": "0001-01-01T00:00:00",
-    "SessionStartTime": "2018-01-10T08:00:00",
+    "SessionStartTime": "2018-01-10T08:00:01",
     "SessionEndTime": "2018-01-10T23:59:00",
     "Room": null,
     "Rooms": [
@@ -1025,6 +1201,31 @@
     "SessionType": "CodeMash Schedule Item",
     "Tags": [
       "Events"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7939,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-09T21:00:01",
+    "SessionEndTime": "2018-01-09T22:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Incident at Asimov Station (T 9:00 PM)",
+    "Abstract": "Gaming Nomads presents Incident at Asimov Station –> Ages 16+. This is a combined Artemis and Tactical Laser Tag event.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
     ],
     "Category": "Project Leadership/Soft Skills",
     "Speakers": [
@@ -1340,6 +1541,32 @@
     ]
   },
   {
+    "Id": 7918,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-10T08:00:01",
+    "SessionEndTime": "2018-01-10T23:59:00",
+    "Room": null,
+    "Rooms": [
+      "Waterpark - Cabanaz"
+    ],
+    "Title": "[KidzMash] Waterpark Cabana (W)",
+    "Abstract": "Need a place to hang out or keep your stuff while in the waterpark? We have two dedicated Cabanas for you! Cabanas are available all week (Saturday thru Saturday) for CodeMash Attendees, and their families– and sponsored by by Amazon.\r\n\r\nAs a special twist, Alexa will be available for doing cool things while in the Cabana. You can ask her if any sharks have been spotted in the water, for example. Or maybe try to turn on and off the lights, TV, etc.\r\n\r\nCabanas are #3 and #4 in the waterpark, and labeled “D” and “E” on the map in the mobile app.\r\n\r\nCowabunga, and happy swimming!\r\n\r\n",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Soft Skills / Business",
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7327,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-10T09:00:00",
@@ -1391,6 +1618,31 @@
     ]
   },
   {
+    "Id": 7934,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-10T09:00:01",
+    "SessionEndTime": "2018-01-10T10:00:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Artemis (Th 9:00 AM)",
+    "Abstract": "Gaming Nomads presents Kidzmash Artemis –> Ages 12-18. Artemis Spaceship Bridge Simulator just for the kids of Kidzmash. Kidz will play any of the aforementioned roles as you go up against fleets from multiple races who want to destroy your ship and your space stations in order to wrest control of the sector away from you.  Whether you voyage with old friends or soon to be new friends, this will be one of the most enjoyable team-building experiences that you have ever had!\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7908,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-10T09:00:01",
@@ -1406,6 +1658,31 @@
       "Hardware"
     ],
     "Category": "Hardware/IoT",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7914,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-10T09:00:01",
+    "SessionEndTime": "2018-01-10T16:00:00",
+    "Room": null,
+    "Rooms": [
+      "Ironwood - Open Spacez"
+    ],
+    "Title": "[KidzMash] Open Spacez (W)",
+    "Abstract": "Calling all attendees, KidzMash and CodeMash! Do you have something you want to share with the KidzMash community? This is your space to shine. Not only do we want kidz to present to kidz, we want parents and guardians to present to kidz.\r\n\r\nLast year we saw everything from ginormous bubbles to Terrarria to Minecraft to nail art to parachute tot time to monster creation to open gaming. We want to see all that and more! Science projects, art classes, cello recitals, robots, dance offs, sharing inventions, and whatever else your wild, innovative minds can come up with.\r\n\r\nWhen you arrive at the Kalahari, go to HangOutz and visit the ginormous wall grd to sign up for half hour blocks. You can sign up for up to an hour total at a time.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Architecture",
     "Speakers": [
       {
         "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
@@ -1442,6 +1719,31 @@
     ]
   },
   {
+    "Id": 7953,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-10T10:00:01",
+    "SessionEndTime": "2018-01-10T12:00:00",
+    "Room": null,
+    "Rooms": [
+      "Main Conference Registration Booth"
+    ],
+    "Title": "[KidzMash] NASA Tour (W 10:00 AM)",
+    "Abstract": "CodeMash is partnering with NASA to offer guided tours at the NASA Plum Brook Station, which happens to be across the street from the Kalahari hotel. It is here that NASA simulates the rigorous conditions of launch and high-altitude flight in order to test rockets and satellites before they are actually launched.  CodeMash has arranged for several small excursions to tour this NASA facility as part of the Kidzmash/CodeMash Families program!\r\n\r\n[More information](https://www.codemash.org/nasa-tours/)\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Hardware/IoT",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7728,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-10T10:30:00",
@@ -1463,6 +1765,31 @@
         "FirstName": "Matt",
         "LastName": "Williams",
         "GravatarUrl": "//www.gravatar.com/avatar/2354a803ebd8fe473f97b7dc854e4d94"
+      }
+    ]
+  },
+  {
+    "Id": 7935,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-10T10:30:01",
+    "SessionEndTime": "2018-01-10T11:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Itty Bitz Laser Tag (W 10:30 AM)",
+    "Abstract": "Gaming Nomads presents Itty Bitz Laser Tag – Ages 4-9. Laser Tag just for the smallest of the Kidzmash attendees (humans only).\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
       }
     ]
   },
@@ -1784,6 +2111,31 @@
     ]
   },
   {
+    "Id": 7927,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-10T13:30:01",
+    "SessionEndTime": "2018-01-10T14:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Laser Tag (W 1:30 PM)",
+    "Abstract": "Gaming Nomads presents Kidzmash Laser Tag –> Ages 10-16. Tactical Laser Tag just for the bigger kids of Kidzmash. We will play several different scenarios lasting 5-10 minutes each.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7911,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-10T14:00:01",
@@ -1860,6 +2212,31 @@
     ]
   },
   {
+    "Id": 7928,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-10T15:00:01",
+    "SessionEndTime": "2018-01-10T16:00:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Laser Tag (W 3:00 PM)",
+    "Abstract": "Gaming Nomads presents Kidzmash Laser Tag –> Ages 10-16. Tactical Laser Tag just for the bigger kids of Kidzmash. We will play several different scenarios lasting 5-10 minutes each.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7875,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-10T16:00:01",
@@ -1911,6 +2288,56 @@
     ]
   },
   {
+    "Id": 7921,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-10T19:00:00",
+    "SessionEndTime": "2018-01-10T21:30:00",
+    "Room": null,
+    "Rooms": [
+      "Killamanjaro Ballroom"
+    ],
+    "Title": "[AfterDark] Lightning Talks",
+    "Abstract": "[Here is everything you need to know about Lightning Talks](http://www.codemash.org/lightning-strikes-codemash-lighting-talks/)\r\n\r\n[And here is a picture of what Lightning Talks look like when scribed onto posterboard with a sharpie and a highlighter](http://www.codemash.org/wp-content/uploads/2016/01/Lightning-Talks.jpg)",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Architecture",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7940,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-10T19:00:01",
+    "SessionEndTime": "2018-01-10T20:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Incident at Asimov Station (W 7:00 PM)",
+    "Abstract": "Gaming Nomads presents Incident at Asimov Station –> Ages 16+. This is a combined Artemis and Tactical Laser Tag event.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7880,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-10T19:30:00",
@@ -1926,6 +2353,57 @@
       "Other"
     ],
     "Category": "Architecture",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7922,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-10T20:00:00",
+    "SessionEndTime": "2018-01-10T23:00:00",
+    "Room": null,
+    "Rooms": [
+      "Grand Hall"
+    ],
+    "Title": "[AfterDark] Live Band in the Grand Hall",
+    "Abstract": "CodeMash presents [The Players Club](http://www.theplayersclubohio.com/) live in the Grand Halll. Get some drinks, enjoy the music but [don't dance with the gorilla](https://i.imgur.com/v8dKmsD.jpg). ",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Soft Skills / Business",
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7941,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-10T21:00:01",
+    "SessionEndTime": "2018-01-10T22:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Incident at Asimov Station (W 9:00 PM)",
+    "Abstract": "Gaming Nomads presents Incident at Asimov Station –> Ages 16+. This is a combined Artemis and Tactical Laser Tag event.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
     "Speakers": [
       {
         "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
@@ -2018,7 +2496,7 @@
   {
     "Id": 7904,
     "SessionTime": "0001-01-01T00:00:00",
-    "SessionStartTime": "2018-01-11T08:00:00",
+    "SessionStartTime": "2018-01-11T08:00:01",
     "SessionEndTime": "2018-01-11T23:59:00",
     "Room": null,
     "Rooms": [
@@ -2352,6 +2830,32 @@
     ]
   },
   {
+    "Id": 7919,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T08:00:01",
+    "SessionEndTime": "2018-01-11T23:59:00",
+    "Room": null,
+    "Rooms": [
+      "Waterpark - Cabanaz"
+    ],
+    "Title": "[KidzMash] Waterpark Cabana (Th)",
+    "Abstract": "Need a place to hang out or keep your stuff while in the waterpark? We have two dedicated Cabanas for you! Cabanas are available all week (Saturday thru Saturday) for CodeMash Attendees, and their families– and sponsored by by Amazon.\r\n\r\nAs a special twist, Alexa will be available for doing cool things while in the Cabana. You can ask her if any sharks have been spotted in the water, for example. Or maybe try to turn on and off the lights, TV, etc.\r\n\r\nCabanas are #3 and #4 in the waterpark, and labeled “D” and “E” on the map in the mobile app.\r\n\r\nCowabunga, and happy swimming!\r\n\r\n",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Soft Skills / Business",
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7487,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-11T09:00:00",
@@ -2404,6 +2908,56 @@
     ]
   },
   {
+    "Id": 7933,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T09:00:01",
+    "SessionEndTime": "2018-01-11T10:00:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Artemis (W 9:00 AM)",
+    "Abstract": "Gaming Nomads presents Kidzmash Artemis –> Ages 12-18. Artemis Spaceship Bridge Simulator just for the kids of Kidzmash. Kidz will play any of the aforementioned roles as you go up against fleets from multiple races who want to destroy your ship and your space stations in order to wrest control of the sector away from you.  Whether you voyage with old friends or soon to be new friends, this will be one of the most enjoyable team-building experiences that you have ever had!\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7957,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T09:00:01",
+    "SessionEndTime": "2018-01-11T10:00:00",
+    "Room": null,
+    "Rooms": [
+      "GWL Waterpark"
+    ],
+    "Title": "[KidzMash] Junior Lifeguarding Class (Th 9:00 AM)",
+    "Abstract": "Discuss basic water safety, signs of a swimmer in distress. Introduce lifeguarding equipment and learn how to use the equipment. Wear a suit and come ready to learn and get wet! Located at Great Wolf Lodge.\r\n\r\n[More information](https://www.codemash.org/junior-lifeguarding-class-ticketz-required/)\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7907,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-11T09:00:01",
@@ -2419,6 +2973,31 @@
       "Hardware"
     ],
     "Category": "Hardware/IoT",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7915,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T09:00:01",
+    "SessionEndTime": "2018-01-11T16:00:00",
+    "Room": null,
+    "Rooms": [
+      "Ironwood - Open Spacez"
+    ],
+    "Title": "[KidzMash] Open Spacez (Th)",
+    "Abstract": "Calling all attendees, KidzMash and CodeMash! Do you have something you want to share with the KidzMash community? This is your space to shine. Not only do we want kidz to present to kidz, we want parents and guardians to present to kidz.\r\n\r\nLast year we saw everything from ginormous bubbles to Terrarria to Minecraft to nail art to parachute tot time to monster creation to open gaming. We want to see all that and more! Science projects, art classes, cello recitals, robots, dance offs, sharing inventions, and whatever else your wild, innovative minds can come up with.\r\n\r\nWhen you arrive at the Kalahari, go to HangOutz and visit the ginormous wall grd to sign up for half hour blocks. You can sign up for up to an hour total at a time.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Architecture",
     "Speakers": [
       {
         "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
@@ -2765,6 +3344,31 @@
     ]
   },
   {
+    "Id": 7954,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T10:00:01",
+    "SessionEndTime": "2018-01-11T12:00:00",
+    "Room": null,
+    "Rooms": [
+      "Main Conference Registration Booth"
+    ],
+    "Title": "[KidzMash] NASA Tour (Th 10:00 AM)",
+    "Abstract": "CodeMash is partnering with NASA to offer guided tours at the NASA Plum Brook Station, which happens to be across the street from the Kalahari hotel. It is here that NASA simulates the rigorous conditions of launch and high-altitude flight in order to test rockets and satellites before they are actually launched.  CodeMash has arranged for several small excursions to tour this NASA facility as part of the Kidzmash/CodeMash Families program!\r\n\r\n[More information](https://www.codemash.org/nasa-tours/)\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Hardware/IoT",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7696,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-11T10:30:00",
@@ -2816,6 +3420,7 @@
       }
     ]
   },
+
   {
     "Id": 7177,
     "SessionTime": "0001-01-01T00:00:00",
@@ -3176,6 +3781,31 @@
         "FirstName": "Brandy",
         "LastName": "Foster",
         "GravatarUrl": "//www.gravatar.com/avatar/370a94dfa3bf6684e954a24c8ec8afca"
+      }
+    ]
+  },
+  {
+    "Id": 7936,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T10:30:01",
+    "SessionEndTime": "2018-01-11T11:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Itty Bitz Laser Tag (Th 10:30 AM)",
+    "Abstract": "Gaming Nomads presents Itty Bitz Laser Tag – Ages 4-9. Laser Tag just for the smallest of the Kidzmash attendees (humans only).\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
       }
     ]
   },
@@ -3940,6 +4570,31 @@
     ]
   },
   {
+    "Id": 7944,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T13:00:01",
+    "SessionEndTime": "2018-01-11T14:00:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Artemis (Th 1:00 PM)",
+    "Abstract": "Gaming Nomads presents Artemis Spaceship Bridge Simulator –> Ages 16+. Join five of your friends or complete strangers as you take control of a spaceship bridge!  Will you be the Helmsman, deftly guiding your ship through all the dangers of the sector?  Or the Weapons officer, locking on to your enemy before you send them to a fiery death?  Or perhaps the Science officer, scanning the enemy for weaknesses and providing navigational bearings?  Or maybe the Communications officer, coordinating the efforts of your allies and convincing your foes that they should surrender while they still can?  Or do you want to be the maestro of the Engineering console, keeping all the systems running at their peak efficiency while coordinating the damage control teams to heal your ship?  Or do you want to be the Captain, taking the input from all your officers in order to make the hard decisions that have to be made in order to survive and emerge victorious?\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 6972,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-11T13:00:01",
@@ -3981,6 +4636,31 @@
       "Other"
     ],
     "Category": "Architecture",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7929,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T13:30:01",
+    "SessionEndTime": "2018-01-11T14:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Laser Tag (Th 1:30 PM)",
+    "Abstract": "Gaming Nomads presents Kidzmash Laser Tag –> Ages 10-16. Tactical Laser Tag just for the bigger kids of Kidzmash. We will play several different scenarios lasting 5-10 minutes each.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
     "Speakers": [
       {
         "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
@@ -4416,6 +5096,31 @@
     ]
   },
   {
+    "Id": 7945,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T14:15:01",
+    "SessionEndTime": "2018-01-11T15:15:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Artemis (Th 2:15 PM)",
+    "Abstract": "Gaming Nomads presents Artemis Spaceship Bridge Simulator –> Ages 16+. Join five of your friends or complete strangers as you take control of a spaceship bridge!  Will you be the Helmsman, deftly guiding your ship through all the dangers of the sector?  Or the Weapons officer, locking on to your enemy before you send them to a fiery death?  Or perhaps the Science officer, scanning the enemy for weaknesses and providing navigational bearings?  Or maybe the Communications officer, coordinating the efforts of your allies and convincing your foes that they should surrender while they still can?  Or do you want to be the maestro of the Engineering console, keeping all the systems running at their peak efficiency while coordinating the damage control teams to heal your ship?  Or do you want to be the Captain, taking the input from all your officers in order to make the hard decisions that have to be made in order to survive and emerge victorious?\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 6716,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-11T15:00:01",
@@ -4438,6 +5143,31 @@
         "FirstName": "Christopher",
         "LastName": "Judd",
         "GravatarUrl": "//www.gravatar.com/avatar/46237da22a99f4aab52e802ea2c0728e"
+      }
+    ]
+  },
+  {
+    "Id": 7930,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T15:00:01",
+    "SessionEndTime": "2018-01-11T16:00:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Laser Tag (Th 3:00 PM)",
+    "Abstract": "Gaming Nomads presents Kidzmash Laser Tag –> Ages 10-16. Tactical Laser Tag just for the bigger kids of Kidzmash. We will play several different scenarios lasting 5-10 minutes each.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
       }
     ]
   },
@@ -4656,6 +5386,7 @@
       }
     ]
   },
+
   {
     "Id": 6960,
     "SessionTime": "0001-01-01T00:00:00",
@@ -4842,6 +5573,31 @@
         "FirstName": "Ronda",
         "LastName": "Bergman",
         "GravatarUrl": "//www.gravatar.com/avatar/fe43183753a401d3b9b92ca452ffee41"
+      }
+    ]
+  },
+  {
+    "Id": 7946,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T15:30:01",
+    "SessionEndTime": "2018-01-11T16:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Artemis (Th 3:30 PM)",
+    "Abstract": "Gaming Nomads presents Artemis Spaceship Bridge Simulator –> Ages 16+. Join five of your friends or complete strangers as you take control of a spaceship bridge!  Will you be the Helmsman, deftly guiding your ship through all the dangers of the sector?  Or the Weapons officer, locking on to your enemy before you send them to a fiery death?  Or perhaps the Science officer, scanning the enemy for weaknesses and providing navigational bearings?  Or maybe the Communications officer, coordinating the efforts of your allies and convincing your foes that they should surrender while they still can?  Or do you want to be the maestro of the Engineering console, keeping all the systems running at their peak efficiency while coordinating the damage control teams to heal your ship?  Or do you want to be the Captain, taking the input from all your officers in order to make the hard decisions that have to be made in order to survive and emerge victorious?\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
       }
     ]
   },
@@ -5262,6 +6018,181 @@
     ]
   },
   {
+    "Id": 7947,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T16:45:01",
+    "SessionEndTime": "2018-01-11T17:45:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Artemis (Th 4:45 PM)",
+    "Abstract": "Gaming Nomads presents Artemis Spaceship Bridge Simulator –> Ages 16+. Join five of your friends or complete strangers as you take control of a spaceship bridge!  Will you be the Helmsman, deftly guiding your ship through all the dangers of the sector?  Or the Weapons officer, locking on to your enemy before you send them to a fiery death?  Or perhaps the Science officer, scanning the enemy for weaknesses and providing navigational bearings?  Or maybe the Communications officer, coordinating the efforts of your allies and convincing your foes that they should surrender while they still can?  Or do you want to be the maestro of the Engineering console, keeping all the systems running at their peak efficiency while coordinating the damage control teams to heal your ship?  Or do you want to be the Captain, taking the input from all your officers in order to make the hard decisions that have to be made in order to survive and emerge victorious?\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7958,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T18:00:01",
+    "SessionEndTime": "2018-01-11T18:30:00",
+    "Room": null,
+    "Rooms": [
+      "Hotel Lobby - Restaurants"
+    ],
+    "Title": "[KidzMash] Family Dinner (Th 6:00 PM)",
+    "Abstract": "The family dinner will be in the restaurants, starting in The Great Karoo, which is in the lobby. Attendees and family adults can use the adult buffet in the family room. Children can use the child’s buffet in the family room. Families should not sit in the main dining room. If your “family dinner” tickets are all (passable as) adults, you are welcome to eat in the main dining room.\r\n\r\n[Ticket are REQUIRED except for CodeMash attendees](https://codemash2018.eventbrite.com)",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7959,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T18:20:00",
+    "SessionEndTime": "2018-01-11T18:50:00",
+    "Room": null,
+    "Rooms": [
+      "Hotel Lobby - Restaurants"
+    ],
+    "Title": "[KidzMash] Family Dinner (Th 6:20 PM)",
+    "Abstract": "The family dinner will be in the restaurants, starting in The Great Karoo, which is in the lobby. Attendees and family adults can use the adult buffet in the family room. Children can use the child’s buffet in the family room. Families should not sit in the main dining room. If your “family dinner” tickets are all (passable as) adults, you are welcome to eat in the main dining room.\r\n\r\n[Ticket are REQUIRED except for CodeMash attendees](https://codemash2018.eventbrite.com)",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7960,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T18:40:00",
+    "SessionEndTime": "2018-01-11T19:10:00",
+    "Room": null,
+    "Rooms": [
+      "Hotel Lobby - Restaurants"
+    ],
+    "Title": "[KidzMash] Family Dinner (Th 6:40 PM)",
+    "Abstract": "The family dinner will be in the restaurants, starting in The Great Karoo, which is in the lobby. Attendees and family adults can use the adult buffet in the family room. Children can use the child’s buffet in the family room. Families should not sit in the main dining room. If your “family dinner” tickets are all (passable as) adults, you are welcome to eat in the main dining room.\r\n\r\n[Ticket are REQUIRED except for CodeMash attendees](https://codemash2018.eventbrite.com)",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7923,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T19:00:00",
+    "SessionEndTime": "2018-01-11T23:59:00",
+    "Room": null,
+    "Rooms": [
+      "Grand Hall"
+    ],
+    "Title": "[AfterDark] Attendee Party ",
+    "Abstract": "Once the sun is set and sessions come to an end, it's time to [party like you're not-quite-exactly on vacation!](https://i.imgur.com/5hkuEsq.jpg) \r\n\r\nFrom 7pm-midnight Thursday is the legendary Attendee Party! The party starts out in the Grand Hall, located near the Marakesh bar. As the night goes on, people migrate to other parties and activities. There are so many things going on. Check ’em out!\r\n\r\nParty stuff we're doing is like:\r\n\r\n- Karaoke - Near Marrakesh\r\n- Photo Booth - Near Lion statue at registraiton\r\n- Life Sized Board Games - salon B/G\r\n- Casino games - the Atrium\r\n- Jam Sessions - Kilimanjaro ballroom - instruments provided \r\n- Acoustic Jam Session - Mangrove - BYONM (bring your own noise maker)\r\n- Artemis / Laser tag. Registration required",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7961,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T19:00:00",
+    "SessionEndTime": "2018-01-11T19:30:00",
+    "Room": null,
+    "Rooms": [
+      "Hotel Lobby - Restaurants"
+    ],
+    "Title": "[KidzMash] Family Dinner (Th 7:00 PM)",
+    "Abstract": "The family dinner will be in the restaurants, starting in The Great Karoo, which is in the lobby. Attendees and family adults can use the adult buffet in the family room. Children can use the child’s buffet in the family room. Families should not sit in the main dining room. If your “family dinner” tickets are all (passable as) adults, you are welcome to eat in the main dining room.\r\n\r\n[Ticket are REQUIRED except for CodeMash attendees](https://codemash2018.eventbrite.com)",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7942,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T19:00:01",
+    "SessionEndTime": "2018-01-11T20:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Incident at Asimov Station (Th 7:00 PM)",
+    "Abstract": "Gaming Nomads presents Incident at Asimov Station –> Ages 16+. This is a combined Artemis and Tactical Laser Tag event.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7882,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-11T19:30:00",
@@ -5289,7 +6220,7 @@
   {
     "Id": 7903,
     "SessionTime": "0001-01-01T00:00:00",
-    "SessionStartTime": "2018-01-12T08:00:00",
+    "SessionStartTime": "2018-01-12T08:00:01",
     "SessionEndTime": "2018-01-12T18:00:00",
     "Room": null,
     "Rooms": [
@@ -5300,6 +6231,56 @@
     "SessionType": "CodeMash Schedule Item",
     "Tags": [
       "Events"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7943,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T21:00:01",
+    "SessionEndTime": "2018-01-11T22:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Incident at Asimov Station (Th 9:00 PM)",
+    "Abstract": "Gaming Nomads presents Incident at Asimov Station –> Ages 16+. This is a combined Artemis and Tactical Laser Tag event.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7924,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-11T22:00:00",
+    "SessionEndTime": "2018-01-12T01:00:00",
+    "Room": null,
+    "Rooms": [
+      "Waterpark"
+    ],
+    "Title": "[AfterDark] Waterpark Party!",
+    "Abstract": "What's it look like when hundreds of CodeMashers take over the [Kalahari water park](https://www.kalahariresorts.com/media/3278/oh-indoorwaterpark.pdf) till 1:00 am in the morning?\r\n\r\n//TODO: Write punch line\r\n\r\nSponsors hosting Waterpark Cabanas offer pizza and snacks, and drinks will be available. So, come by and grab a slice or brew, and meet some new people!\r\n\r\nPlease drink responsibly.\r\n\r\nPS. outdoor hot tub",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
     ],
     "Category": "Project Leadership/Soft Skills",
     "Speakers": [
@@ -5328,6 +6309,32 @@
       "Other"
     ],
     "Category": "Architecture",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7920,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-12T08:00:01",
+    "SessionEndTime": "2018-01-12T18:00:00",
+    "Room": null,
+    "Rooms": [
+      "Waterpark - Cabanaz"
+    ],
+    "Title": "[KidzMash] Waterpark Cabana (F)",
+    "Abstract": "Need a place to hang out or keep your stuff while in the waterpark? We have two dedicated Cabanas for you! Cabanas are available all week (Saturday thru Saturday) for CodeMash Attendees, and their families– and sponsored by by Amazon.\r\n\r\nAs a special twist, Alexa will be available for doing cool things while in the Cabana. You can ask her if any sharks have been spotted in the water, for example. Or maybe try to turn on and off the lights, TV, etc.\r\n\r\nCabanas are #3 and #4 in the waterpark, and labeled “D” and “E” on the map in the mobile app.\r\n\r\nCowabunga, and happy swimming!\r\n\r\n",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Soft Skills / Business",
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
     "Speakers": [
       {
         "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
@@ -5710,6 +6717,31 @@
     ],
     "Title": "[KidzMash] A Kid’s World of 3D printing (F)",
     "Abstract": "This session is targeted for children. All ages are welcome with a responsible adult. We will tour the maker lab and talk about the exciting world of 3D printing. we will look at the printers as well as models made on them and pass around lots of things, and go over basics of how to make models,  different types of CAD apps including some that are free or more kid friendly. We’ll also discuss where to get free models, and where to print them. This is the basic overview. Kids should start want to start with this session before using the lab or doing the follow up modeling course.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Architecture",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7916,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-12T09:00:01",
+    "SessionEndTime": "2018-01-12T15:00:00",
+    "Room": null,
+    "Rooms": [
+      "Ironwood - Open Spacez"
+    ],
+    "Title": "[KidzMash] Open Spacez (F)",
+    "Abstract": "Calling all attendees, KidzMash and CodeMash! Do you have something you want to share with the KidzMash community? This is your space to shine. Not only do we want kidz to present to kidz, we want parents and guardians to present to kidz.\r\n\r\nLast year we saw everything from ginormous bubbles to Terrarria to Minecraft to nail art to parachute tot time to monster creation to open gaming. We want to see all that and more! Science projects, art classes, cello recitals, robots, dance offs, sharing inventions, and whatever else your wild, innovative minds can come up with.\r\n\r\nWhen you arrive at the Kalahari, go to HangOutz and visit the ginormous wall grd to sign up for half hour blocks. You can sign up for up to an hour total at a time.",
     "SessionType": "Kidz Mash",
     "Tags": [
       "Other"
@@ -6109,6 +7141,31 @@
     ]
   },
   {
+    "Id": 7955,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-12T10:00:01",
+    "SessionEndTime": "2018-01-12T12:00:00",
+    "Room": null,
+    "Rooms": [
+      "Main Conference Registration Booth"
+    ],
+    "Title": "[KidzMash] NASA Tour (F 10:00 AM)",
+    "Abstract": "CodeMash is partnering with NASA to offer guided tours at the NASA Plum Brook Station, which happens to be across the street from the Kalahari hotel. It is here that NASA simulates the rigorous conditions of launch and high-altitude flight in order to test rockets and satellites before they are actually launched.  CodeMash has arranged for several small excursions to tour this NASA facility as part of the Kidzmash/CodeMash Families program!\r\n\r\n[More information](https://www.codemash.org/nasa-tours/)\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Hardware/IoT",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7317,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-12T10:30:00",
@@ -6130,6 +7187,31 @@
         "FirstName": "Daniel",
         "LastName": "Wood",
         "GravatarUrl": "//www.gravatar.com/avatar/ce96486a0a3db2ee45f45d4802d20cc4"
+      }
+    ]
+  },
+  {
+    "Id": 7937,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-12T10:30:01",
+    "SessionEndTime": "2018-01-12T11:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Itty Bitz Laser Tag (F 10:30 AM)",
+    "Abstract": "Gaming Nomads presents Itty Bitz Laser Tag – Ages 4-9. Laser Tag just for the smallest of the Kidzmash attendees (humans only).\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
       }
     ]
   },
@@ -6169,7 +7251,7 @@
       "Zambezi"
     ],
     "Title": "Chrome Developer Tools: Raiding the Armory",
-    "Abstract": "The Chrome Developer Tools are absolutely littered with features. Some are incredibly useful. Some just plain surprising. For example, it is possible to turn the browser into an editor, fuzzy search source filenames, display data in the console in tabular format and much, much more. \r\n\r\nThis session will cover how to get the most debugging, profiling, the console, building developer tool extensions and more. There will also be a roundup of important features introduced throught the year.",
+    "Abstract": "The Chrome Developer Tools are absolutely packed with features. Some are incredibly useful. Some are just plain surprising. For example: Turn the browser into an editor, fuzzy search source filenames, display data in the console in tabular format and much, much more. In this session, we will fix up the storefront for Wacky Wanda’s Wicked Weapons and learn some console wizardry in the process. In the course of our tribulations we will correct styling problems, enhance our debugging skills, and clean up server-side snafus.",
     "SessionType": "General Session",
     "Tags": [
       "Design (UI/UX/CSS)",
@@ -6447,6 +7529,7 @@
       }
     ]
   },
+
   {
     "Id": 6901,
     "SessionTime": "0001-01-01T00:00:00",
@@ -6866,6 +7949,31 @@
     ]
   },
   {
+    "Id": 7948,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-12T12:15:01",
+    "SessionEndTime": "2018-01-12T13:15:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Artemis (F 12:15 PM)",
+    "Abstract": "Gaming Nomads presents Artemis Spaceship Bridge Simulator –> Ages 16+. Join five of your friends or complete strangers as you take control of a spaceship bridge!  Will you be the Helmsman, deftly guiding your ship through all the dangers of the sector?  Or the Weapons officer, locking on to your enemy before you send them to a fiery death?  Or perhaps the Science officer, scanning the enemy for weaknesses and providing navigational bearings?  Or maybe the Communications officer, coordinating the efforts of your allies and convincing your foes that they should surrender while they still can?  Or do you want to be the maestro of the Engineering console, keeping all the systems running at their peak efficiency while coordinating the damage control teams to heal your ship?  Or do you want to be the Captain, taking the input from all your officers in order to make the hard decisions that have to be made in order to survive and emerge victorious?\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 7738,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-12T13:00:00",
@@ -7050,6 +8158,56 @@
         "FirstName": null,
         "LastName": "GrapeCity",
         "GravatarUrl": "//www.gravatar.com/avatar/0f56c3da33c886ff41b0d43f0d6d17a4"
+      }
+    ]
+  },
+  {
+    "Id": 7949,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-12T13:30:01",
+    "SessionEndTime": "2018-01-12T14:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Artemis (F 1:30 PM)",
+    "Abstract": "Gaming Nomads presents Artemis Spaceship Bridge Simulator –> Ages 16+. Join five of your friends or complete strangers as you take control of a spaceship bridge!  Will you be the Helmsman, deftly guiding your ship through all the dangers of the sector?  Or the Weapons officer, locking on to your enemy before you send them to a fiery death?  Or perhaps the Science officer, scanning the enemy for weaknesses and providing navigational bearings?  Or maybe the Communications officer, coordinating the efforts of your allies and convincing your foes that they should surrender while they still can?  Or do you want to be the maestro of the Engineering console, keeping all the systems running at their peak efficiency while coordinating the damage control teams to heal your ship?  Or do you want to be the Captain, taking the input from all your officers in order to make the hard decisions that have to be made in order to survive and emerge victorious?\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7931,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-12T13:30:01",
+    "SessionEndTime": "2018-01-12T14:30:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Laser Tag (F 1:30 PM)",
+    "Abstract": "Gaming Nomads presents Kidzmash Laser Tag –> Ages 10-16. Tactical Laser Tag just for the bigger kids of Kidzmash. We will play several different scenarios lasting 5-10 minutes each.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
       }
     ]
   },
@@ -7452,6 +8610,56 @@
     ]
   },
   {
+    "Id": 7950,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-12T14:45:01",
+    "SessionEndTime": "2018-01-12T15:45:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Artemis (F 2:45 PM)",
+    "Abstract": "Gaming Nomads presents Artemis Spaceship Bridge Simulator –> Ages 16+. Join five of your friends or complete strangers as you take control of a spaceship bridge!  Will you be the Helmsman, deftly guiding your ship through all the dangers of the sector?  Or the Weapons officer, locking on to your enemy before you send them to a fiery death?  Or perhaps the Science officer, scanning the enemy for weaknesses and providing navigational bearings?  Or maybe the Communications officer, coordinating the efforts of your allies and convincing your foes that they should surrender while they still can?  Or do you want to be the maestro of the Engineering console, keeping all the systems running at their peak efficiency while coordinating the damage control teams to heal your ship?  Or do you want to be the Captain, taking the input from all your officers in order to make the hard decisions that have to be made in order to survive and emerge victorious?\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
+    "Id": 7932,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-12T15:00:01",
+    "SessionEndTime": "2018-01-12T16:00:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[KidzMash] Laser Tag (F 3:00 PM)",
+    "Abstract": "Gaming Nomads presents Kidzmash Laser Tag –> Ages 10-16. Tactical Laser Tag just for the bigger kids of Kidzmash. We will play several different scenarios lasting 5-10 minutes each.\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "Kidz Mash",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
+      }
+    ]
+  },
+  {
     "Id": 6938,
     "SessionTime": "0001-01-01T00:00:00",
     "SessionStartTime": "2018-01-12T16:00:00",
@@ -7763,6 +8971,31 @@
         "FirstName": "Matthew",
         "LastName": "Smith",
         "GravatarUrl": "//www.gravatar.com/avatar/210458140b94a614f78e388b2f68d201"
+      }
+    ]
+  },
+  {
+    "Id": 7951,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2018-01-12T16:00:01",
+    "SessionEndTime": "2018-01-12T17:00:00",
+    "Room": null,
+    "Rooms": [
+      "Salon C"
+    ],
+    "Title": "[AfterDark] Artemis (F 4:00 PM)",
+    "Abstract": "Gaming Nomads presents Artemis Spaceship Bridge Simulator –> Ages 16+. Join five of your friends or complete strangers as you take control of a spaceship bridge!  Will you be the Helmsman, deftly guiding your ship through all the dangers of the sector?  Or the Weapons officer, locking on to your enemy before you send them to a fiery death?  Or perhaps the Science officer, scanning the enemy for weaknesses and providing navigational bearings?  Or maybe the Communications officer, coordinating the efforts of your allies and convincing your foes that they should surrender while they still can?  Or do you want to be the maestro of the Engineering console, keeping all the systems running at their peak efficiency while coordinating the damage control teams to heal your ship?  Or do you want to be the Captain, taking the input from all your officers in order to make the hard decisions that have to be made in order to survive and emerge victorious?\r\n\r\n[TICKETS ARE REQUIRED](https://codemash2018.eventbrite.com)\r\n\r\nDuration is estimated. Actual duration may vary.",
+    "SessionType": "After Dark",
+    "Tags": [
+      "Other"
+    ],
+    "Category": "Project Leadership/Soft Skills",
+    "Speakers": [
+      {
+        "Id": "bda938ce-a700-4c25-a42e-7dd25639b6c6",
+        "FirstName": "CodeMash",
+        "LastName": "Schedule Item",
+        "GravatarUrl": "//www.gravatar.com/avatar/508a61de7441fc3511884c43f8f08af2"
       }
     ]
   }
